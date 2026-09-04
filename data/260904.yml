@@ -7,7 +7,7 @@ about:
   head: 35171cc
   archived: false
   latestVersion: v0.4.15
-  collectedAt: 2026-09-04T19:25:22Z
+  collectedAt: 2026-09-04T21:09:44Z
 timeline:
   created: 2019-05-23
   lastCommit: 2026-07-02
@@ -81,6 +81,44 @@ total:
   openIssue: 36
   commit: 248
 ---
+path: /home/runner/.x-repo/github.com/goodwithtech/dockle
+collectedAt: 2026-09-04T21:09:45Z
+loc:
+  Go:
+    code: 4453
+    comments: 133
+    blanks: 613
+    files: 51
+  Json:
+    code: 395
+    comments: 0
+    blanks: 0
+    files: 7
+  Yaml:
+    code: 120
+    comments: 0
+    blanks: 4
+    files: 1
+  Dockerfile:
+    code: 11
+    comments: 3
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 552
+    blanks: 248
+    files: 4
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 5378
+  comments: 713
+  blanks: 889
+  files: 65
 ---
 date: "2026-08-24"
 repo:
