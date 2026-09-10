@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7801544,
       "digest": null,
-      "download_count": 501061,
+      "download_count": 501118,
       "created_at": "2025-01-06T06:08:13Z",
       "updated_at": "2025-01-06T06:08:14Z",
       "browser_download_url": "https://github.com/goodwithtech/dockle/releases/download/v0.4.15/dockle_0.4.15_Linux-64bit.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 7785144,
       "digest": null,
-      "download_count": 473802,
+      "download_count": 473886,
       "created_at": "2025-01-06T06:08:11Z",
       "updated_at": "2025-01-06T06:08:12Z",
       "browser_download_url": "https://github.com/goodwithtech/dockle/releases/download/v0.4.15/dockle_0.4.15_Linux-64bit.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 7160397,
       "digest": null,
-      "download_count": 9377,
+      "download_count": 9380,
       "created_at": "2025-01-06T06:08:11Z",
       "updated_at": "2025-01-06T06:08:12Z",
       "browser_download_url": "https://github.com/goodwithtech/dockle/releases/download/v0.4.15/dockle_0.4.15_Linux-ARM64.tar.gz"
