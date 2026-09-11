@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-12 | 0 | 0 | 11 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 7 | 16 | 0 | 0 | 7 |
-| last180d | 2026-03-14 | 0 | 10 | 17 | 0 | 0 | 11 |
-| 360d | 2025-09-15 | 0 | 11 | 17 | 0 | 3 | 11 |
-| last720d | 2024-09-20 | 1 | 18 | 17 | 2 | 9 | 19 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 11 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 7 | 16 | 0 | 0 | 7 |
+| last180d | 2026-03-15 | 0 | 10 | 17 | 0 | 0 | 11 |
+| 360d | 2025-09-16 | 0 | 11 | 17 | 0 | 3 | 11 |
+| last720d | 2024-09-21 | 1 | 18 | 17 | 2 | 9 | 19 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for dockle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:30:20Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:16:04Z._
