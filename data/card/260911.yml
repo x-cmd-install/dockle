@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.15"
   latestRelease: "v0.4.15"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:15:54Z
+  collectedAt: 2026-09-11T18:39:24Z
 timeline:
   created: 2019-05-23
   lastCommit: 2026-07-02
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-01-06
   lastPrerelease: 
 popularity:
-  star: 3295
+  star: 3296
   watcher: 23
   fork: 167
   release: 43
@@ -84,7 +84,7 @@ total:
   commit: 248
 ---
 path: /home/runner/.x-repo/github.com/goodwithtech/dockle
-collectedAt: 2026-09-11T06:15:58Z
+collectedAt: 2026-09-11T18:39:27Z
 loc:
   Go:
     code: 4453
