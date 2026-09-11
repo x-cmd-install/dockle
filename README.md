@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,295 · **Forks**: 167 · **Open issues**: 125 · **Contributors**: 34
+- **Stars**: 3,296 · **Forks**: 167 · **Open issues**: 125 · **Contributors**: 34
 
 ## Totals (cumulative)
 
@@ -110,4 +110,4 @@ Install metadata for dockle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:16:04Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:39:47Z._
