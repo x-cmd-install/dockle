@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,297 · **Forks**: 170 · **Open issues**: 125 · **Contributors**: 34
+- **Stars**: 3,298 · **Forks**: 170 · **Open issues**: 125 · **Contributors**: 34
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-07 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 90d | 2026-07-08 | 0 | 0 | 11 | 0 | 0 | 0 |
-| last180d | 2026-04-09 | 0 | 7 | 17 | 0 | 0 | 7 |
-| 360d | 2025-10-11 | 0 | 11 | 17 | 0 | 3 | 11 |
-| last720d | 2024-10-16 | 1 | 16 | 17 | 1 | 9 | 19 |
+| 30d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-08 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 90d | 2026-07-09 | 0 | 0 | 11 | 0 | 0 | 0 |
+| last180d | 2026-04-10 | 0 | 7 | 17 | 0 | 0 | 7 |
+| 360d | 2025-10-12 | 0 | 11 | 17 | 0 | 3 | 11 |
+| last720d | 2024-10-17 | 1 | 16 | 17 | 1 | 9 | 19 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for dockle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:43:07Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:15:58Z._
