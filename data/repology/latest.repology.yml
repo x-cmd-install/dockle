@@ -1,0 +1,122 @@
+- repo: alt_p11
+  srcname: dockle
+  binnames:
+    - dockle
+    - dockle-debuginfo
+  visiblename: dockle
+  version: 0.4.15
+  origversion: 0.4.15-alt1
+  status: newest
+  summary: Lints Docker/OCI images for security and best-practice compliance
+  maintainers:
+    - tulskijms@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Other
+- repo: altsisyphus
+  srcname: dockle
+  binnames:
+    - dockle
+    - dockle-debuginfo
+  visiblename: dockle
+  version: 0.4.15
+  origversion: 0.4.15-alt1
+  status: newest
+  summary: Lints Docker/OCI images for security and best-practice compliance
+  maintainers:
+    - tulskijms@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Other
+- repo: aur
+  srcname: dockle
+  binname: dockle
+  visiblename: dockle
+  version: 0.4.15
+  origversion: 0.4.15-2
+  status: newest
+  summary: Container Image Linter for Security, Helping build the Best-Practice Docker Image
+  maintainers:
+    - aminvakil@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: dockle-bin
+  binname: dockle-bin
+  visiblename: dockle-bin
+  version: 0.4.15
+  origversion: 0.4.15-1
+  status: newest
+  summary: Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
+  maintainers:
+    - sysroot@aur
+  licenses:
+    - AGPL
+- repo: nix_stable_24_05
+  srcname: dockle
+  visiblename: dockle
+  version: 0.4.14
+  origversion: null
+  status: outdated
+  summary: Container Image Linter for Security
+  maintainers:
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: dockle
+  visiblename: dockle
+  version: 0.4.14
+  origversion: null
+  status: outdated
+  summary: Container Image Linter for Security
+  maintainers:
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: dockle
+  visiblename: dockle
+  version: 0.4.15
+  origversion: null
+  status: newest
+  summary: Container Image Linter for Security
+  maintainers:
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: dockle
+  visiblename: dockle
+  version: 0.4.15
+  origversion: null
+  status: newest
+  summary: Container Image Linter for Security
+  maintainers:
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: dockle
+  visiblename: dockle
+  version: 0.4.15
+  origversion: null
+  status: newest
+  summary: Container Image Linter for Security
+  maintainers:
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: dockle
+  visiblename: dockle
+  version: 0.4.15
+  origversion: null
+  status: newest
+  summary: Container Image Linter for Security
+  maintainers:
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - Apache-2.0
