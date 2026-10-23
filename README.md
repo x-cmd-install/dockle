@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 9 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 7 | 17 | 0 | 0 | 7 |
-| 360d | 2025-10-27 | 0 | 11 | 17 | 0 | 2 | 11 |
-| last720d | 2024-11-01 | 1 | 16 | 17 | 1 | 9 | 19 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 9 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 7 | 17 | 0 | 0 | 7 |
+| 360d | 2025-10-28 | 0 | 11 | 17 | 0 | 2 | 11 |
+| last720d | 2024-11-02 | 1 | 16 | 17 | 1 | 9 | 19 |
 
 ## Release assets
 
@@ -93,6 +93,14 @@ Lowest-scoring checks:
 | [dockle_0.4.15_macOS-64bit.tar.gz](https://github.com/goodwithtech/dockle/releases/download/v0.4.15/dockle_0.4.15_macOS-64bit.tar.gz) | 7.3 MiB | `native/darwin/x64` |
 | [dockle_0.4.15_macOS-ARM64.tar.gz](https://github.com/goodwithtech/dockle/releases/download/v0.4.15/dockle_0.4.15_macOS-ARM64.tar.gz) | 6.9 MiB | `native/darwin/arm64` |
 
+## Distribution status
+
+Reported by **10** distros on [repology.org](https://repology.org/project/dockle). **8** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.4.15` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for dockle lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dockle` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -102,4 +110,4 @@ Install metadata for dockle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:04:31Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:00:19Z._
