@@ -120,3 +120,13 @@
     - hello+nixpkgs@j-k.io
   licenses:
     - Apache-2.0
+- repo: slackbuilds
+  srcname: development/dockle
+  visiblename: development/dockle
+  version: 0.4.15
+  origversion: null
+  status: newest
+  maintainers:
+    - boxjake.romero@protonmail.com
+  categories:
+    - development
