@@ -14,13 +14,13 @@ x install dockle
 
 ## Code insight
 
-Total: **4,979** lines of code across **64** files in the top 5 languages.
+Total: **4,980** lines of code across **64** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 4,453 | 133 | 613 | 51 |
 | Json | 395 | 0 | 0 | 7 |
-| Yaml | 120 | 0 | 4 | 1 |
+| Yaml | 121 | 0 | 4 | 1 |
 | Dockerfile | 11 | 3 | 4 | 1 |
 | Markdown | 0 | 552 | 248 | 4 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.15` (2025-01-06)
-- **Last commit**: 2026-07-02
+- **Last commit**: 2026-11-15
 - **Assets in release**: 23
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 145 · **Open PRs**: 17 · **Closed issues**: 89 · **Open issues**: 36 · **Commits**: 248
+- **Releases**: 43 · **Merged PRs**: 152 · **Open PRs**: 12 · **Closed issues**: 89 · **Open issues**: 36 · **Commits**: 255
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-19 | 0 | 7 | 16 | 0 | 0 | 7 |
-| 360d | 2025-11-20 | 0 | 11 | 17 | 0 | 2 | 11 |
-| last720d | 2024-11-25 | 1 | 16 | 17 | 1 | 9 | 19 |
+| 30d | 2026-10-17 | 0 | 2 | 0 | 0 | 0 | 7 |
+| last60d | 2026-09-17 | 0 | 2 | 0 | 0 | 0 | 7 |
+| 90d | 2026-08-18 | 0 | 2 | 0 | 0 | 0 | 7 |
+| last180d | 2026-05-20 | 0 | 14 | 11 | 0 | 0 | 14 |
+| 360d | 2025-11-21 | 0 | 18 | 12 | 0 | 2 | 18 |
+| last720d | 2024-11-26 | 1 | 23 | 12 | 1 | 9 | 26 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for dockle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:13:08Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:47:33Z._
